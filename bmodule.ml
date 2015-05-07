@@ -1,0 +1,2 @@
+(*Bmodule*)
+Amodule.hello ()
